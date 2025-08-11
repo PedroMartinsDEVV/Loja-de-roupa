@@ -6,9 +6,8 @@ O projeto apresenta um design moderno, responsivo e voltado para destacar coleç
 ---
 
 ## 📸 Prévia do Projeto
-[![[Screenshot do site](https://1drv.ms/i/c/2904d8a168a370ad/EWIexSsX6gVHq7ODPLm9X_YBgIU9ZQPIqNoXwjaTYQOnHQ?e=p607Tj)](src/styles/images/camisa%20street.webp)
-](https://1drv.ms/i/c/2904d8a168a370ad/EWIexSsX6gVHq7ODPLm9X_YBgIU9ZQPIqNoXwjaTYQOnHQ?e=p607Tj)
----
+![Imagem do WhatsApp de 2025-08-11 à(s) 09 56 52_8bd464b3](https://github.com/user-attachments/assets/0e067426-bb72-4fb5-9e83-d00358405252)
+
 
 ## 🚀 Funcionalidades
 - **Menu de navegação fixo** para fácil acesso às seções.
