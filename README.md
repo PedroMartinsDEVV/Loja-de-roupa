@@ -6,8 +6,8 @@ O projeto apresenta um design moderno, responsivo e voltado para destacar coleç
 ---
 
 ## 📸 Prévia do Projeto
-![[Screenshot do site](https://1drv.ms/i/c/2904d8a168a370ad/EWIexSsX6gVHq7ODPLm9X_YBgIU9ZQPIqNoXwjaTYQOnHQ?e=p607Tj)](src/styles/images/camisa%20street.webp)
-
+[![[Screenshot do site](https://1drv.ms/i/c/2904d8a168a370ad/EWIexSsX6gVHq7ODPLm9X_YBgIU9ZQPIqNoXwjaTYQOnHQ?e=p607Tj)](src/styles/images/camisa%20street.webp)
+](https://1drv.ms/i/c/2904d8a168a370ad/EWIexSsX6gVHq7ODPLm9X_YBgIU9ZQPIqNoXwjaTYQOnHQ?e=p607Tj)
 ---
 
 ## 🚀 Funcionalidades
